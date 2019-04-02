@@ -1,0 +1,121 @@
+html,body{
+	font-family: 'Montserrat', sans-serif;
+	color: #3a3a3a;
+}
+.colors{
+	background: linear-gradient(to right,rgb(45,140,129),rgb(45,140,129) 25%,rgb(39,123,175) 25%,rgb(39,123,175) 50%,rgb(191,115,59) 50%,rgb(191,115,59) 75%,rgb(121,76,114) 75%);
+	height: 5px;
+}
+.navbar{
+	background: #ffffff;
+	padding: 1px;
+}
+.navbar .navbar-brand h5{
+	padding-top: 5px;
+	font-weight: 600;
+}
+.navbar .navbar-brand h6{
+	font-size: 75%;
+	font-weight: 600;
+}
+.navbar_text{
+	display: inline-block;
+	vertical-align: middle;
+	padding-left: 5px;
+}
+.navbar .navbar-nav .nav-item a{
+	font-size: 14.5px;
+	font-weight: 500;
+	color: #3a3a3a;
+}
+.footer{
+	padding: 40px 0 7px;
+	background:#003262;
+	color: #f8f8f8;
+	font-weight: 500;
+}
+.footer .row{
+	border-bottom: 1px solid lightgrey;
+	padding-bottom: 20px;
+}
+.footer h6{
+	background: linear-gradient(#f5f5f5, #f5f5f5) no-repeat;
+  	background-size: 10% 5px;
+  	background-position: left bottom;
+  	padding-bottom: 10px;
+  	margin-bottom: 20px;
+}
+.footer .row .col-md-3 a{
+	text-decoration: none;	
+	color: #f5f5f5;
+}
+.footer .col-md-12{
+	background:#1565c0;
+}
+.footer .fa {
+  margin-right: 5px;
+  padding: 5px;
+  font-size: 21px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+}
+.footer .fa:hover {
+    opacity: 0.7;
+}
+.footer .fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.footer .fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.footer .fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+/* mining */
+#mining{
+	background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('..//img/side.jpg') center no-repeat;
+	background-size: cover;
+	height: 420px;
+	padding-top: 150px;
+	color: #f2f2f2;
+	text-align: center;
+}
+.about{
+	padding: 40px;
+	font-size: 14px;
+
+}
+.about p{
+	text-align: justify;
+}
+.about .card .card-header{
+	background: #003262;
+	color: #ffffff;
+}
+h5{
+	padding-top: 15px;
+}
+.academic{
+	padding: 40px;
+	font-size: 14.5px;
+}
+.academic ul li{
+	padding-bottom: 15px;
+}
+.faculties{
+	padding: 40px;
+	font-size: 14.5px;
+}
+.faculties .row{
+	padding: 20px 0 20px 0;
+	border-bottom: 1px solid lightgrey;
+}
+.faculties .row:last-child{
+	border-bottom: none;
+}
