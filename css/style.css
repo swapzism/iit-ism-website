@@ -16,7 +16,7 @@ body {
   font-family: "Droid Serif", serif;
   color: #7f8c97;
   /*background-color: #000000;*/
-  background-image: url(clg.jpeg);
+  background-image: url('../img/clg.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: left;
