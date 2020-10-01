@@ -285,7 +285,7 @@
 							<div class="image_content">
 								<img src="https://www.iitism.ac.in/assets/img/eminent/mrinal-sen.jpg" alt="Notebook" style="width:100%;">
 								<div class="content">
-								    <p>Prof. Mrinal Sen,awarded with very prestigious Virgil Kauffman Gold Medal</p>
+								    <p>Professor Mrinal Sen,awarded with very prestigious Virgil Kauffman Gold Medal</p>
 								  </div>
 							</div>
 						</div>
